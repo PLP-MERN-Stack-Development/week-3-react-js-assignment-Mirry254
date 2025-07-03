@@ -1,4 +1,4 @@
-# 🎨 Week 3: React.js, JSX, and Tailwind CSS – Mastering Front-End Development
+ # 🎨 Week 3: React.js, JSX, and Tailwind CSS – Mastering Front-End Development
 
 ## 🚀 Objective
 Build a responsive React application using JSX and Tailwind CSS that demonstrates component architecture, state management, hooks usage, and API integration.
